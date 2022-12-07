@@ -1,0 +1,2 @@
+2022-12-06T05:57:04+00:00 CRITICAL Out of memory (allocated 100663296) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-admin\includes\media.php on line 2035
+
